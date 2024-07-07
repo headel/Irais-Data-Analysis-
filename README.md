@@ -1,7 +1,7 @@
 # Irais-Data-Analysis-
 # Dashboard Created using Streamlit
 
-Here’s a step-by-step process for someone to clone your repository and run the dashboard locally:
+Here’s a step-by-step process for you to clonethis repository and run the dashboard locally:
 
 1. **Clone the repository**:
     ```sh
